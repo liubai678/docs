@@ -1,2 +1,2 @@
-# lyonblank.github.io
-空白博客
+# 博客
+[访问地址](https://liubai678.github.io)
